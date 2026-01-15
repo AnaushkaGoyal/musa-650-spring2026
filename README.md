@@ -4,11 +4,13 @@
 
 [Overview](#overview-and-objectives) | [Schedule](#schedule) | [Assignments](#assignments) | [Software](#software) | [Academic Integrity](#academic-integrity-and-ai-use)
 
-[![Join Slack](https://img.shields.io/badge/Join-Slack-blue?logo=slack)](https://join.slack.com/t/musa6502026/shared_invite/zt-3monprxnr-5wpkj_4nNYGq2tiBG4qFaw)
+[![Join Slack](https://custom-icon-badges.demolab.com/badge/Join_Slack-4A154B?logo=slack&logoColor=fff)](https://join.slack.com/t/musa6502026/shared_invite/zt-3monprxnr-5wpkj_4nNYGq2tiBG4qFaw)
+
+[![Class Zoom Link](https://img.shields.io/badge/Class_Zoom_Link-2D8CFF?logo=zoom&logoColor=white)](https://pennmedicine.zoom.us/j/91607482543)
 
 ## Overview and Objectives
 
-Satellite remote sensing is the science of converting raw aerial imagery into actionable intelligence about the built and natural environment. In city planning, this includes applications like building footprint extraction, land cover classification, and change detection. This course will provide you with the foundation necessary to apply machine learning algorithms to satellite imagery using a modern, cloud-native spatial data stack. We will cover supervised and unsupervised learning, model selection, feature engineering, and performance evaluation, as well as deep learning approaches using convolutional neural networks for semantic image segmentation. The course combines lectures, hands-on labs, real-world case studies, and guest speakers to give you a sense of the scope of the field.
+Satellite remote sen[![Join Slack](https://img.shields.io/badge/Join-Slack-blue?logo=slack)]sing is the science of converting raw aerial imagery into actionable intelligence about the built and natural environment. In city planning, this includes applications like building footprint extraction, land cover classification, and change detection. This course will provide you with the foundation necessary to apply machine learning algorithms to satellite imagery using a modern, cloud-native spatial data stack. We will cover supervised and unsupervised learning, model selection, feature engineering, and performance evaluation, as well as deep learning approaches using convolutional neural networks for semantic image segmentation. The course combines lectures, hands-on labs, real-world case studies, and guest speakers to give you a sense of the scope of the field.
 
 The main goal of this class is to give you the conceptual foundation and practical skills to apply machine learning to remote sensing problems independently. You will learn to access and prepare satellite imagery using modern cloud-native tools such as the STAC API, define problems, select appropriate algorithms, build machine learning models, and validate them on new datasets. Given the ready availability of AI-generated code, we emphasize understanding why methods work over memorizing syntax. Our priority is ensuring you can adapt to new tools and methods as the field evolves.
 
